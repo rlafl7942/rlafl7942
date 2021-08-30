@@ -1,7 +1,10 @@
-### Hi there 👋
+
 
    <div align=center>
-  
+   
+  ### Hi there 👋
+   <br>
+   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlafl7942%2Fhit-counter&count_bg=%23DD6387&title_bg=%23282A36&icon=&icon_color=%23F8F8F2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
   
