@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+   <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlafl7942%2Fhit-counter&count_bg=%23B67EE3&title_bg=%238E8E8E&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  <div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlafl7942%2Fhit-counter&count_bg=%23DD6387&title_bg=%23282A36&icon=&icon_color=%23F8F8F2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlafl7942&show_icons=true&theme=dracula)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlafl7942&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!--
