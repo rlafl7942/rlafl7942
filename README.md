@@ -5,7 +5,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=🐰YERI&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
 
 
-### Educations
+### 📚 Educations
 
 | Date |     Contents 	|    Organizaion |
 |-----	|:----------:	|:-----------:|
@@ -14,7 +14,7 @@
 
 <br>
 
-### Projects
+### 🔎 Projects
 
 | Date | Project | Tech |
 |-------|:--------:|:---------:|
