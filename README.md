@@ -5,15 +5,17 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=☁️YERI&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
 
 ### 🙋‍♀️ About Me
-기술,협업면에서 하루하루 성장하여 모두가 "함께" 하고 싶어 하는 개발자가 되고 싶습니다 :)
+기술,협업 면에서 하루하루 성장하여 모두가 "함께" 하고 싶어 하는 개발자가 되고 싶습니다 :)
 
 <br>
 
 ### 📚 Educations
 
 | Date |     Contents 	|    Organizaion |
-|-----	|:----------:	|:-----------:|
+|-------|:----------:|:-----------:|
 | `2023.12.` ~ `2024.06.` 	| 신한투자증권 프로 디지털 아카데미 3기 | 신한투자증권  |
+| `2022.03.` ~ `2022.08.` 	| Bamberg University 봄학기 교환학생 | 밤베르크 대학교  |
+
 
 
 <br>
