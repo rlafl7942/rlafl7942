@@ -4,6 +4,11 @@
 <!-- Head -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=☁️YERI&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
 
+
+### [🔎 인스턴스 성능 비교 링크](https://github.com/rlafl7942/rlafl7942/blob/main/instance_test.md)
+
+<br>
+
 ### 🙋‍♀️ About Me
 기술,협업 면에서 하루하루 성장하여 모두가 "함께" 하고 싶어 하는 개발자가 되고 싶습니다 :)
 * Frontend Developer
