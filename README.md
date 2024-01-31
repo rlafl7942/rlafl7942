@@ -8,7 +8,6 @@
 <br>
 
 ### 🙋‍♀️ About Me
-기술,협업 면에서 하루하루 성장하여 모두가 "함께" 하고 싶어 하는 개발자가 되고 싶습니다 :)
 * Frontend Developer
 * Major in Computer Engineering 
 
