@@ -1,48 +1,64 @@
 
+# Hi, there! 🍀
 
-   
-<!-- Head -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=☁️YERI&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
-
-
-<br>
+<br/>
 
 ### 🙋‍♀️ About Me
-* Frontend Developer
-* Major in Computer Engineering 
+"함께"의 가치를 실현하고 싶은 개발자
 
-<br>
+<br/>
 
-### 📚 Educations
+<!--
+<h3>📚 Educations</h3>
 
 | Date |     Contents 	|    Organizaion |
 |-------|:----------:|:-----------:|
 | `2018.03.` ~ `2023.02.` 	| 세종대학교 컴퓨터공학과 | 세종대학교  |
 | `2022.03.` ~ `2022.08.` 	| Bamberg University 봄학기 교환학생 | 밤베르크 대학교  |
 | `2023.12.` ~ `2024.06.` 	| 신한투자증권 프로 디지털 아카데미 3기 | 신한투자증권  |
+-->
 
+### 🪴 Experiences
+- ICT 운영부 인턴, 신한투자증권 (2024.07 - 2024.08)
+  - 클라우드 기반 인프라 설계 업무 수행
 
-
-
-
-<br>
-
-### 🔎 Projects
-
-| Date | Project | Tech |
-|-------|:--------:|:---------:|
-| `2021.06.` ~ `2021.07.` | [University Mentoring App, MENTORS](https://github.com/rlafl7942/MentoringApp) | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> |
-| `2021.08.` | [2021 Agile Hackathon, Blooming](https://github.com/rlafl7942/blooming-frontend) | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> |
-| `2021.09.` ~ `2021.12.` | [Date Course Recommendation App, Own Course](https://github.com/own-course/application) | <img src="https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> |
-| `2022.01.` | [MBTI Test](https://github.com/Viral-MBTI-Test/Viral_MBTI_frontend) | <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> |
-| `2022.09.` ~ `2022.12.` | [AI Diagnosis of Crop Pests App, Plant Hospital](https://github.com/Capstone-PlantHospital/PlantHospital-Frontend) | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> |
-
-
-
-   
-  
+- 신한투자증권 프로디지털 아카데미 3기 수료 (2023.12 - 2024.06)
+  - AWS 클라우드, React, Spring 및 금융 IT 교육 과정 이수
  
-  
+- 독일 교환학생, Bamberg University (2022.03 - 2022.08)
+
+<br />
+
+### 🌿 Projects
+- 퇴직연금 RA 노후 자산 관리 서비스, Hit It! (2024.05 - 2024.06)
+  - 머신러닝 기반 마이데이터 분석으로 고객 맞춤형 포트폴리오 추천
+  - `React` `Javascript` `Zustand` `Axios` `Figma Design & Wireframe`
+  - [Repo](https://github.com/hit-it-PDA)
+
+
+- 모의 투자 주식 교육 게임 서비스, 주린이의 모험 (2024.03)
+   - 한국투자증권 Web Socket Open API를 활용한 모의 투자를 통한 실전 투자 감각 학습 경험
+   - `React` `Javascript` `Redux` `Axios` `Figma Design & Wireframe`
+   - [Repo](https://github.com/PDA-Jumo/.github)
+ 
+
+ 
+<br />
+
+### 🌱 Mini Projects
+- 개복치 키우기 게임 (2024.05)
+   - `JAVA` `Swing`
+   - [Repo](https://github.com/KillSunfish/killsunfish)
+
+- 실시간 투표 기반 공유 플레이리스트, PICKPL (2024.02)
+  - `React` `Javascript` `Redux` `Web Socket` `Axios` `Figma Design & Wireframe`
+  - [Repo](https://github.com/pick-playlist)
+ 
+
+ 
+<br />
+
+### 🔗 [Velog](https://velog.io/@rlafl7942/posts)
 
 
 
